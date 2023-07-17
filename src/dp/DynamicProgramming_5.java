@@ -11,7 +11,6 @@ import java.util.Scanner;
 
 public class DynamicProgramming_5 {
 
-    // 잘못 푼 문제
     public static int[] result = new int[2000];
 
     public static void main(String[] args) {
